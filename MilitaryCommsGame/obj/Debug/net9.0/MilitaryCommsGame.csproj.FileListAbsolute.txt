@@ -1,0 +1,14 @@
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/obj/Debug/net9.0/MilitaryCommsGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/obj/Debug/net9.0/MilitaryCommsGame.AssemblyInfoInputs.cache
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/obj/Debug/net9.0/MilitaryCommsGame.AssemblyInfo.cs
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/obj/Debug/net9.0/MilitaryCommsGame.csproj.CoreCompileInputs.cache
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/bin/Debug/net9.0/MilitaryCommsGame
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/bin/Debug/net9.0/MilitaryCommsGame.deps.json
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/bin/Debug/net9.0/MilitaryCommsGame.runtimeconfig.json
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/bin/Debug/net9.0/MilitaryCommsGame.dll
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/bin/Debug/net9.0/MilitaryCommsGame.pdb
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/obj/Debug/net9.0/MilitaryCommsGame.dll
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/obj/Debug/net9.0/refint/MilitaryCommsGame.dll
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/obj/Debug/net9.0/MilitaryCommsGame.pdb
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/obj/Debug/net9.0/MilitaryCommsGame.genruntimeconfig.cache
+/Users/szyartojeffrey/Desktop/game 5/MilitaryCommsGame/obj/Debug/net9.0/ref/MilitaryCommsGame.dll
